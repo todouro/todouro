@@ -1,7 +1,7 @@
-#Hey there 👋
+### hey there 👋
 
 I'm todouro; a non-technical person who enjoys turning ideas into projects. 
-Most of my projects start with a simple thought: *"wouldn't it be cool if this existed?"*
+My projects mostly start with late night motivation and cool ideas I think will work.
 
 ### my approach
 
