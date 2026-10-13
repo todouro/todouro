@@ -1,16 +1,15 @@
-## Hi there 👋
+#Hey there 👋
 
-<!--
-**todouro/todouro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm todouro; a non-technical person who enjoys turning ideas into projects. 
+Most of my projects start with a simple thought: *"wouldn't it be cool if this existed?"*
 
-Here are some ideas to get you started:
+### my approach
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe good software doesn't need to be complicated to be enjoyable. I'm learning as I build, experimenting with different technologies, and trying to make every project a little better than the last.
+I'm especially interested in desktop applications, creative tools, and small projects that solve real problems.
+
+---
+
+<p align="center">
+  <i>made with curiosity, caffeine, and probably too many late nights.</i>
+</p>
